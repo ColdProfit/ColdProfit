@@ -2,8 +2,6 @@
 
 ###  Building for the Web Full-Stack
 
-Learning by building real-world web applications.
-
 - **Focus:** Web Development, APIs, Python & JavaScript
 - **Currently:** Building web apps and exploring new technologies
 - **Learning:** Full-Stack Development & System Design
