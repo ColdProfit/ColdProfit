@@ -1,26 +1,14 @@
 # Hi, I'm ColdProfit 👋
 
-I'm a developer interested in computer graphics, quantitative finance, and modern web technologies.
+###  Building for the Web Full-Stack
 
-## Current Focus
+Learning by building real-world web applications.
 
-- Three.js & WebGL
-- Quantitative Portfolio Management
-- Python
-- Data Analysis
-
-## Featured Projects
-
-### 🌍 Earth 3D
-
-Interactive Earth visualization built with Three.js.
-
-🔗 Live Demo  
-https://coldprofit.github.io/earth-3d/
-
-🔗 Repository  
-https://github.com/ColdProfit/earth-3d
+- **Focus:** Web Development, APIs, Python & JavaScript
+- **Currently:** Building web apps and exploring new technologies
+- **Learning:** Full-Stack Development & System Design
+- **Goal:** Turning ideas into functional, scalable applications
 
 ---
 
-More projects coming soon.
+*Learning. Building. Improving.*
